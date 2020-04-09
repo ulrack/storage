@@ -1,3 +1,5 @@
+# DEPRECATION NOTICE: this package has been moved and improved at [grizz-it/storage](https://github.com/grizz-it/storage)
+
 [![Build Status](https://travis-ci.com/ulrack/storage.svg?branch=master)](https://travis-ci.com/ulrack/storage)
 
 # Ulrack Storage
